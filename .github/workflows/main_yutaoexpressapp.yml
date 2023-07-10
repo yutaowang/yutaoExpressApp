@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'yutaoExpressApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43125ACDC4BE4CDF83A49EE8655AC165 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E7BA7E40FA54C6582851D84AE894E6E }}
           package: .
